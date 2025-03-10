@@ -1,5 +1,5 @@
 #-MR.MAFIA-KIDS
-#-CAPTURE BY </> NOOR
+#-CAPTURE BY NOOR
 #-FILE-M1
 -------------------------------------------------------
 </> NOOR DATA : {'kids_xudina': '361cc533-b993-4b91-8989-0ea7f8be53b8', 'format': 'json', 'kids_bokachoda': 'd6096e84-2614-408d-a4eb-a1cf4bc91721', 'FUCKED_BY_ARAFAT': 'true', 'family_device_id': 'e4ed7457-9dc7-43ae-b325-8e961501ea3a', 'credentials_type': 'device_based_login_password', 'error_detail_type': 'button_with_disabled', 'source': 'device_based_login', 'email': '100003349570101', 'password': '123456', 'access_token': '350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'generate_session_cookies': '1', 'locale': 'fr_DZ', 'client_country_code': 'DZ', 'method': 'auth.login', 'fb_api_req_friendly_name': 'authenticate', 'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 'api_key': '882a8490361da98702bf97a021ddc14d'}
